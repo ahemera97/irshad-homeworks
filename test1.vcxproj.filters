@@ -30,5 +30,23 @@
     <ClCompile Include="lesson4-h1-p3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week 1\hw5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week 1\lesson4-h1-p1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week 1\lesson4-h1-p2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week 1\lesson4-h1-p3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson4-h2-p2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson4-h3-p1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
