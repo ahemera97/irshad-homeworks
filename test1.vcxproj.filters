@@ -48,5 +48,14 @@
     <ClCompile Include="lesson4-h3-p1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week 1\lesson4-h3-p1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson4-h3-p2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson4-h3-p3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
